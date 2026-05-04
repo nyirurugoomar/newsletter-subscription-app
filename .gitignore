@@ -20,3 +20,4 @@
 .application.properties.development.local
 .application.properties.test.local
 .application.properties.production.local
+.src/main/resources/application.properties
