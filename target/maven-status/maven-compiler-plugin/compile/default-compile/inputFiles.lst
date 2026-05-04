@@ -1,0 +1,7 @@
+/Users/bliss/Documents/Project/subscription-app/newsletter-subscription-app/src/main/java/com/example/newsletter/NewsletterApplication.java
+/Users/bliss/Documents/Project/subscription-app/newsletter-subscription-app/src/main/java/com/example/newsletter/controller/SubscriptionController.java
+/Users/bliss/Documents/Project/subscription-app/newsletter-subscription-app/src/main/java/com/example/newsletter/dto/SubscriptionRequest.java
+/Users/bliss/Documents/Project/subscription-app/newsletter-subscription-app/src/main/java/com/example/newsletter/model/Subscriber.java
+/Users/bliss/Documents/Project/subscription-app/newsletter-subscription-app/src/main/java/com/example/newsletter/repository/SubscriberRepository.java
+/Users/bliss/Documents/Project/subscription-app/newsletter-subscription-app/src/main/java/com/example/newsletter/service/EmailService.java
+/Users/bliss/Documents/Project/subscription-app/newsletter-subscription-app/src/main/java/com/example/newsletter/service/SubscriptionService.java

@@ -1,0 +1,7 @@
+com/example/newsletter/NewsletterApplication.class
+com/example/newsletter/dto/SubscriptionRequest.class
+com/example/newsletter/model/Subscriber.class
+com/example/newsletter/service/EmailService.class
+com/example/newsletter/service/SubscriptionService.class
+com/example/newsletter/repository/SubscriberRepository.class
+com/example/newsletter/controller/SubscriptionController.class
